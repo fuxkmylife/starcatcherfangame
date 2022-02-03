@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/imaginaryonesfanart/static/css/main.719bfc1f.chunk.css",
+    "main.js": "/imaginaryonesfanart/static/js/main.d4dc47f2.chunk.js",
+    "main.js.map": "/imaginaryonesfanart/static/js/main.d4dc47f2.chunk.js.map",
+    "runtime-main.js": "/imaginaryonesfanart/static/js/runtime-main.f4d3cba7.js",
+    "runtime-main.js.map": "/imaginaryonesfanart/static/js/runtime-main.f4d3cba7.js.map",
+    "static/css/2.4ac5a43c.chunk.css": "/imaginaryonesfanart/static/css/2.4ac5a43c.chunk.css",
+    "static/js/2.9182de56.chunk.js": "/imaginaryonesfanart/static/js/2.9182de56.chunk.js",
+    "static/js/2.9182de56.chunk.js.map": "/imaginaryonesfanart/static/js/2.9182de56.chunk.js.map",
+    "index.html": "/imaginaryonesfanart/index.html",
+    "precache-manifest.e2395fcf3b887f09cc14bb8a3996c4f4.js": "/imaginaryonesfanart/precache-manifest.e2395fcf3b887f09cc14bb8a3996c4f4.js",
+    "service-worker.js": "/imaginaryonesfanart/service-worker.js",
+    "static/css/2.4ac5a43c.chunk.css.map": "/imaginaryonesfanart/static/css/2.4ac5a43c.chunk.css.map",
+    "static/css/main.719bfc1f.chunk.css.map": "/imaginaryonesfanart/static/css/main.719bfc1f.chunk.css.map",
+    "static/js/2.9182de56.chunk.js.LICENSE.txt": "/imaginaryonesfanart/static/js/2.9182de56.chunk.js.LICENSE.txt",
+    "static/media/SC_game-04.png": "/imaginaryonesfanart/static/media/SC_game-04.564c02cd.png",
+    "static/media/SC_game-05.png": "/imaginaryonesfanart/static/media/SC_game-05.d0a2aa5f.png",
+    "static/media/SC_game-10.png": "/imaginaryonesfanart/static/media/SC_game-10.de89838b.png",
+    "static/media/SC_game-11.png": "/imaginaryonesfanart/static/media/SC_game-11.fe0c10bd.png",
+    "static/media/SC_game-13.png": "/imaginaryonesfanart/static/media/SC_game-13.d084f53d.png",
+    "static/media/SC_game-14.png": "/imaginaryonesfanart/static/media/SC_game-14.25e9c3f7.png",
+    "static/media/SC_game_BG.gif": "/imaginaryonesfanart/static/media/SC_game_BG.25b5aacc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d3cba7.js",
+    "static/css/2.4ac5a43c.chunk.css",
+    "static/js/2.9182de56.chunk.js",
+    "static/css/main.719bfc1f.chunk.css",
+    "static/js/main.d4dc47f2.chunk.js"
+  ]
+}

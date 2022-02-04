@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/starcatcherfangame/static/css/main.719bfc1f.chunk.css",
-    "main.js": "/starcatcherfangame/static/js/main.299d80d8.chunk.js",
-    "main.js.map": "/starcatcherfangame/static/js/main.299d80d8.chunk.js.map",
+    "main.js": "/starcatcherfangame/static/js/main.6a7fd0a6.chunk.js",
+    "main.js.map": "/starcatcherfangame/static/js/main.6a7fd0a6.chunk.js.map",
     "runtime-main.js": "/starcatcherfangame/static/js/runtime-main.35fea1ef.js",
     "runtime-main.js.map": "/starcatcherfangame/static/js/runtime-main.35fea1ef.js.map",
     "static/css/2.4ac5a43c.chunk.css": "/starcatcherfangame/static/css/2.4ac5a43c.chunk.css",
     "static/js/2.ae35ebcb.chunk.js": "/starcatcherfangame/static/js/2.ae35ebcb.chunk.js",
     "static/js/2.ae35ebcb.chunk.js.map": "/starcatcherfangame/static/js/2.ae35ebcb.chunk.js.map",
     "index.html": "/starcatcherfangame/index.html",
-    "precache-manifest.c002943d0fa988201238df53d516ba7f.js": "/starcatcherfangame/precache-manifest.c002943d0fa988201238df53d516ba7f.js",
+    "precache-manifest.0fc63e3a6a6fdfca80ee22747a61411d.js": "/starcatcherfangame/precache-manifest.0fc63e3a6a6fdfca80ee22747a61411d.js",
     "service-worker.js": "/starcatcherfangame/service-worker.js",
     "static/css/2.4ac5a43c.chunk.css.map": "/starcatcherfangame/static/css/2.4ac5a43c.chunk.css.map",
     "static/css/main.719bfc1f.chunk.css.map": "/starcatcherfangame/static/css/main.719bfc1f.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.4ac5a43c.chunk.css",
     "static/js/2.ae35ebcb.chunk.js",
     "static/css/main.719bfc1f.chunk.css",
-    "static/js/main.299d80d8.chunk.js"
+    "static/js/main.6a7fd0a6.chunk.js"
   ]
 }
